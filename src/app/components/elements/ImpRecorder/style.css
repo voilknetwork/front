@@ -1,0 +1,10 @@
+.Hide_banner{
+	display:none;
+}
+.Show_banner{
+	display:block;
+}
+.Ads_rotator{
+	width: 100%;
+	text-align: center
+}

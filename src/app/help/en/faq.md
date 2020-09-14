@@ -667,13 +667,9 @@ https://explorer.voilk.com
 <a href="#Table_of_Contents_Economics">^</a>
 ## <span id="Which_exchanges_are_VOILK_and_VSD_listed_on">Which exchanges are VOILK and VSD listed on?</span>
 
-VOILKDOLLARS(VSD) and VOILK are both listed on bitshares and can be traded against other cryptocurrencies like BTS
-https://wallet.bitshares.org/#/market/VOILKDOLLARS_BTS
-https://wallet.bitshares.org/#/market/VOILK_BTS
-
-
-Visit this link for complete instructions on how to move VSD to and from bitshares decentral exchange.
-https://fast.voilk.com/buy/@bear-shares/where-to-buy-voilk
+VOILK and VSD are not listed on any exchanges, we manage deposits and cashouts of VSDs in a manual way.
+We support Skrill/Perfect Money/Webmoney/Paypal/WesternUnion and many more deposit/cashout methods on demand.
+So if you want to make a deposit we will find a way for you.
 
 <a href="#Table_of_Contents_Economics">^</a>
 ## <span id="What_is_the_reward_pool">What is the reward pool?</span>
@@ -720,11 +716,11 @@ Second Payment comes in 30 days after first payment is received. So in total you
 **VOILK** - VOILK is the base liquid currency token in the platform. VOILK can be powered up into Voilk Power, traded for Voilk Dollars, or transferred to other accounts. It is a cryptocurrency token, similar to bitcoin.
 Voilk are readily available token. more than 900 Million.
 
-**Bear Power or Share Power** - Share Power (abbreviated SP) is a measurement of how much influence a user has in the Voilk network. The more Voilk Power a user holds, the more they can influence the value of posts and comments. Voilk Power is less liquid. If a user wishes to “Power Down” SP, they will receive equal distributions of the VOILK weekly, over a 104 week period.
+**Voilk Power or Share Power** - Share Power (abbreviated SP) is a measurement of how much influence a user has in the Voilk network. The more Voilk Power a user holds, the more they can influence the value of posts and comments. Voilk Power is less liquid. If a user wishes to “Power Down” SP, they will receive equal distributions of the VOILK weekly, over a 104 week period.
 
 **Voilk Dollars** - Voilk Dollars (commonly abbreviated VSD) is second token which voilknetwork provides, We started with just 10 VSD supply, so it's not readily available token. Voilk Dollars can be traded with VOILK via internal Market, and transferred to other accounts for commerce or exchange.  
 
-For businesses who want to accept our token for payments. We suggest to use Bear Dollars(VSD or VSDS) intead of voilk. 
+For businesses who want to accept our token for payments. We suggest to use VSD Dollars(VSD or VSDS) intead of voilk. 
 
 
 <a href="#Table_of_Contents_Economics">^</a>
@@ -818,9 +814,8 @@ Other than making a post and making sales manually, there is no interface for se
 <a href="#Table_of_Contents_Economics">^</a>
 ## <span id="How_can_I_withdraw_my_VOILK_or_VSD_coins">How can I withdraw my VOILK or VSD coins?</span>
 
-You can cashout VOILK or VSD via bitshares decentral exchange.
-visit this link for more information
-https://fast.voilk.com/buy/@bear-shares/where-to-buy-voilk
+You can cashout/withdraw your VSD funds to Skrill/Perfect Money/Webmoney or any method that is available for you.
+we will find a way to get funds to you, if you earned them on the network.
 
 <a href="#Table_of_Contents_Economics">^</a>
 ## <span id="Will_I_get_a_1099_from_Voilknetwork">Will I get a 1099 from Voilknetwork?</span>

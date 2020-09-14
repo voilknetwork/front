@@ -25,7 +25,7 @@ const SidebarLinks = ({ username }) => (
           </a>
         </li>
         <li className="c-sidebar__list-item">
-          <a className="c-sidebar__link" href="/faq.html">
+          <a className="c-sidebar__link" href="https://landing.voilk.com/faq">
             FAQs
           </a>
         </li>

@@ -44,7 +44,7 @@ const SidePanel = ({ alignment, visible, hideSidePanel, username }) => {
       {
         value: "faq",
         label: tt("navigation.faq"),
-        link: `/faq.html`
+        link: `https://landing.voilk.com/faq`
       },
       {
         value: "tags",

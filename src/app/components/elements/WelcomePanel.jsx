@@ -37,10 +37,7 @@ export default class WelcomePanel extends React.Component {
                   <b>{tt("navigation.sign_up")}</b>{" "}
                 </a>
 
-                <Link
-                  href="https://landing.voilk.com/faq"
-                  className="button ghost fade-in--7"
-                >
+                <Link href="/faq.html" className="button ghost fade-in--7">
                   <b>{tt("navigation.learn_more")}</b>
                 </Link>
               </div>

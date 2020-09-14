@@ -111,9 +111,7 @@ class PostsIndex extends React.Component {
             <br />
             <Link to="/welcome">{tt("posts_index.empty_feed_4")}</Link>
             <br />
-            <Link to="https://landing.voilk.com/faq">
-              {tt("posts_index.empty_feed_5")}
-            </Link>
+            <Link to="/faq.html">{tt("posts_index.empty_feed_5")}</Link>
             <br />
           </div>
         );

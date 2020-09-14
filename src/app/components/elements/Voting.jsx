@@ -322,6 +322,7 @@ class Voting extends React.Component {
         </Dropdown>
       );
 
+      return null;
       // const flag =
       //     myVote === null || myVote === 0 ? dropdown : revokeFlag;
       // return (

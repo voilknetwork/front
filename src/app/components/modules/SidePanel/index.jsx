@@ -134,7 +134,7 @@ const SidePanel = ({ alignment, visible, hideSidePanel, username }) => {
       {
         value: "signup",
         label: tt("g.sign_up"),
-        link: "https://voilk.com/register"
+        link: "https://signup.voilk.com/register"
       },
       {
         value: "post",

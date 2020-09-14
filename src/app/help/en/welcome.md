@@ -1,13 +1,13 @@
 <span id="disable_router_nav_history_direction_check"></span>
-## Welcome to Voilknetwork!
+## Welcome to Voilk!
 
-This page is full of information to help you learn about the platform and become a successful Voilkian. You can return to this page at any time by clicking on the "Welcome" link in the main menu. There is a table of contents below to help you navigate the page.
+This page is full of information to help you learn about the platform and become a successful Voilker. You can return to this page at any time by clicking on the "Welcome" link in the main menu. There is a table of contents below to help you navigate the page.
 
 Included on the page is a "To Do List" with recommended steps to get started with your account, and a "Quick Start Guide" with information on how the platform works. 
 
 Below that is a section of "Helpful Posts from Voilknetwork Users", which contains a collection of posts from users in the community that are helpful for new users getting started. 
 
-Below that is a list of recommended users to follow, a collection of other resources including the <a href="/faq.html">FAQ Page</a> and [Voilk 'Bluepaper'](https://voilk.io/voilk-bluepaper.pdf), as well as information on where to find help. 
+Below that is a list of recommended users to follow, a collection of other resources including the <a href="https://landing.voilk.com/faq">FAQ Page</a> 
 
 ## <span id="Table_of_Contents">Table of Contents</span>
 
@@ -15,10 +15,10 @@ Below that is a list of recommended users to follow, a collection of other resou
 
 1. <a href="#Backup_your_password">Backup Your Password</a>
 2. <a href="#Review_the_Quick_Start_Guide">Review the Quick Start Guide</a>
-3. <a href="#Read_the_Helpful_Posts_from_Voilknetwork_Users">Read the Helpful Posts from Voilknetwork Users</a>
+3. <a href="#Read_the_Helpful_Posts_from_Voilknetwork_Users">Read the Helpful Posts from Voilk Users</a>
 4. <a href="#Setup_your_Profile_Avatar_and_Cover_Image">Setup your Profile, Avatar, and Cover Image</a>
 5. <a href="#Choose_your_NSFW_(Not_Safe_for_Work)_Display_Preference">Choose your "NSFW" (Not Safe for Work) Display Preferences, Language, and Rewards</a>
-6. <a href="#Sign_Up_for_Voilk_Chat">Sign Up for Voilk Chat</a>
+6. <a href="#Sign_Up_for_Voilk_Chat">Join Voilk General Chat</a>
 7. <a href="#Create_your_introduceyourself_post">Create your "Introduceyourself" Post</a>
 8. <a href="#Learn_more">Learn More</a>
 
@@ -37,9 +37,9 @@ Below that is a list of recommended users to follow, a collection of other resou
 - <a href="#Cashing_out_or_Spending_VSD">Cashing out or Spending VSD</a>
 - <a href="#Plagiarism">Plagiarism</a>
 - <a href="#Password_Security">Password Security</a>
-- <a href="#Earning_on_Voilknetwork">Earning on Voilknetwork</a>
+- <a href="#Earning_on_Voilknetwork">Earning on Voilk</a>
 
-### <a href="#Helpful_Posts_from_Voilknetwork_Users">Helpful Posts from Voilknetwork Users</a>
+### <a href="#Helpful_Posts_from_Voilknetwork_Users">Helpful Posts from Voilk Users</a>
 ### <a href="#Users_to_Follow">Users to Follow</a>
 ### <a href="#Other_Resources">Other Resources</a>
 ### <a href="#Get_Help">Get Help</a>
@@ -53,7 +53,7 @@ Below that is a list of recommended users to follow, a collection of other resou
 
 Unlike centralized web services, **it is not possible to recover lost passwords on the Voilk blockchain**.
 
-You are entirely responsible for saving your password, backing it up, and keeping it secure.
+You are entirely responsible for saving your password, backing it up and keeping it secure.
 
 It is strongly recommended that you store an offline copy of your password somewhere safe in case of a hard drive failure or other calamity. Consider digital offline storage (such as a flash drive or burned CD), secure private cloud-based storage, as well as printed paper. Use multiple methods of storage for best redundancy. 
 
@@ -67,7 +67,7 @@ The <a href="#Quick_Start_Guide">Quick Start Guide</a> section of this Welcome p
 <a href="#Table_of_Contents">^</a>
 ### <span id="Read_the_Helpful_Posts_from_Voilknetwork_Users">3. Read the Helpful Posts from Voilknetwork Users</span>
 
-The <a href="#Helpful_Posts_from_Voilknetwork_Users">Helpful Posts from Voilknetwork Users</a> section of this Welcome page contains many well-written articles from members of the community with tips on how to use Voilknetwork and succeed on the Voilk blockchain.
+The <a href="#Helpful_Posts_from_Voilknetwork_Users">Helpful Posts from Voilk Users</a> section of this Welcome page contains many well-written articles from members of the community with tips on how to use Voilknetwork and succeed on the Voilk blockchain.
 
 <a href="#Table_of_Contents">^</a>
 ### <span id="Setup_your_Profile_Avatar_and_Cover_Image">4. Setup your Profile, Avatar, and Cover Image</span>
@@ -90,17 +90,11 @@ You can select the language you wish to display the website in. Currently, Engli
 You can also choose how you will receive your Blog post rewards and Comment post rewards. It is recommended that you read the <a href="#Digital_Currencies">Digital Currencies</a> section first. 
 
 <a href="#Table_of_Contents">^</a>
-### <span id="Sign_Up_for_Voilk_Chat">6. Sign Up for Voilk Chat</span>
+### <span id="Sign_Up_for_Voilk_Chat">6. Join Voilk General Chat</span>
 
 A lot of users mingle and chat when they are not posting or browsing Voilknetwork. It is a great place to meet people!
-
-There is a link to sign up in the main menu in the upper right corner.
-
-Your [voilk.chat](https://voilk.chat/home) account is a separate account from your Voilk account.
-
-Some channels allow you to share links, but others don't. For instance, [general](https://voilk.chat/channel/general) is for discussion without link promotion, while [postpromotion](https://voilk.chat/channel/postpromotion) is for promoting your posts.
-
-Each channel will have its rules posted in the "Room Info" section.
+you can follow this invitation link, to join our discord chat group
+[discordgroup](https://discord.gg/QNryJsJ)
 
 <a href="#Table_of_Contents">^</a>
 ### <span id="Create_your_introduceyourself_post">7. Create your "Introduceyourself" Post</span>
@@ -127,7 +121,7 @@ The <a href="#Other_Resources">Other Resources</a> section of this Welcome page 
 It is free to post, comment, or vote on all content on Voilk.com. You might even get paid for it!
 
 <a href="#Table_of_Contents">^</a>
-### <span id="Votes">Votes</span>
+### <span id="Votes">Votes/Likes</span>
 
 Upvotes are Voilknetwork's way of saying you like someone's post or comment.
 
@@ -164,21 +158,21 @@ To follow an author, click on their username and click the "Follow" button.
 
 Once you follow someone, all of their posts will show up in your "Feed" on the homepage when you login.
 
-As other Voilkians come across your posts and comments, you will start to gain followers.
+As other Voilkers come across your posts and comments, you will start to gain followers.
 
 You can see all of your followers and the people you are following on your profile page.
 
 <a href="#Table_of_Contents">^</a>
-### <span id="Revoilk">Revoilk</span>
+### <span id="Revoilk">Share/Revoilk</span>
 
-If you want to share someone else's post with all of your followers, click on the <Icon name="reblog" /> *revoilk* icon. Revoilks cannot be undone. 
+If you want to share someone else's post with all of your followers, click on the <Icon name="reblog" /> *revoilk* icon. Shares cannot be undone. 
 
 <a href="#Table_of_Contents">^</a>
 ### <span id="Digital_Currencies">Digital Currencies</span>
 
 VOILK, Voilk Power and Voilk Dollars are the three forms of digital currency used by the Voilk Blockchain.
 
-More information on the three types of tokens can be found in the [Voilknetwork FAQ](https://voilk.com/faq.html#What_is_the_difference_between_VOILK__VOILK_Power__and_Voilk_Dollars).
+More information on the three types of tokens can be found in the [Voilknetwork FAQ](https://landing.voilk.com/faq).
 
 <a href="#Table_of_Contents">^</a>
 ### <span id="Curation">Curation</span>
@@ -196,7 +190,7 @@ The projected payments may fluctuate (up and down) until the final payment amoun
 
 Payments for posts are split between the author (at least 75%) and the curators (up to 25%).
 
-The author reward is paid 50% in Voilk Power and 50% in VOILK/VSD by default.
+The author reward is paid 50% in Voilk Power and 50% in VOILK by default.
 
 Authors also have the option to decline payout, or be paid in 100% Voilk Power!
 
@@ -214,11 +208,7 @@ Your reputation will go up as you earn upvotes for your posts and comments, but 
 <a href="#Table_of_Contents">^</a>
 ### <span id="Cashing_out_or_Spending_VSD">Cashing out or Spending VSD</span>
 
-You can exchange VSD for VOILK in the [Currency Market](https://voilk.com/market). Once you have VOILK, you can "Power Up" in your wallet to gain additional Voilk Power.
-
-You can spend your VSD at the [Peerhub Store](https://www.peerhub.com/).
-
-You can also exchange your VOILK and VSD for bitcoin on a third-party exchange such as [BlockTrades](https://blocktrades.us/) or [Bittrex](https://bittrex.com/).
+At the moment, only way to cashout VSD is by contacting us via email support@voilk.com, you can contact us here.
 
 <a href="#Table_of_Contents">^</a>
 ### <span id="Plagiarism">Plagiarism</span>
@@ -241,7 +231,7 @@ Never put your password into unverified third party websites as they may steal y
 Your Voilk account is worth real money. Treat your Voilk password like you would your bank password and keep it secure! 
 
 <a href="#Table_of_Contents">^</a>
-### <span id="Earning_on_Voilknetwork">Earning on Voilknetwork</span>
+### <span id="Earning_on_Voilknetwork">Earning on Voilk</span>
 
 Everyone's earnings are different. Have fun. Get involved. Meet new friends. 
 
@@ -254,67 +244,32 @@ Don't get discouraged if you don't earn much at first. Keep up the good work!
 ***
 
 ## <span id="Helpful_Posts_from_Voilknetwork_Users">Helpful Posts from Voilknetwork Users</span>
-### <span id="Blogging">Blogging</span>
-- [Advice on How To Build a Following](/voilknetwork/@allasyummyfood/how-i-build-a-following-of-160-k-from-scratch)
-- [Voilknetwork Etiquette Guide](/voilknetwork/@thecryptofiend/the-complete-voilknetwork-etiquette-guide-revision-2-0)
-- [8 Mistakes to Avoid](/voilknetwork/@alcibiades/8-mistakes-i-see-beginners-make-on-voilknetwork)
-- [The Importance of Citation](/voilkcleaners/@voilkcleaners/the-importance-of-citation)
-- [How to Find Success as a Voilknetwork Blogger](/blog/@inquiringtimes/how-to-find-sucess-as-a-voilknetwork-blogger)
-- [The Art of Commenting](/voilkcleaners/@voilkcleaners/the-art-of-commenting)
-- [Blogging Tools](/blogging/@munteanu/blogging-tools)
-- [The Ultimate Guide of Tips for New Voilk Users](/voilk-help/@timcliff/the-ultimate-guide-of-tips-for-new-voilk-users)
-- [Ways to Find Free and Legal Images](/voilk-help/@mindover/don-t-plagiarize-images-here-are-13-free-and-legal-ways-to-find-high-quality-photos-you-can-use-on-voilknetwork)
-- [The Game of Tags](/voilkcleaners/@voilkcleaners/the-game-of-tags)
-- [Voilknetwork for Artists](/art/@voronoi/voilknetwork-for-artists-a-new-stage-for-craft)
-- [Video interview on how to be successful](/blog/@terrybrock/voilknetwork-success-series--timcliff-on-who-to-target-with-your-content-1512178826-124805)
+    - as our network becomes popular, we are sure, there will be helpful material from users
+    - we suggest users to use the tag #helping to post helping material for others to use
 
-### <span id="Curation">Curation</span>
-- [Curation Rewards Explained](/curation/@liberosist/mind-your-votes-ii-a-guide-to-maximizing-your-curation-rewards)
-- [More Information on Curation Rewards](/voilknetwork/@calamus056/curation-rewards-explained-in-great-detail)
-- [Everything you need to know about potential payouts and flagging](/payout/@timcliff/everything-you-need-to-know-about-potential-payouts-and-flagging-for-new-users)
-- [Guide To Voilknetwork Payouts](/voilknetwork/@shenanigator/the-ultimate-guide-to-voilknetwork-payouts)
-
-### <span id="Formatting">Formatting</span>
-- [Emojis for Voilknetwork](/emojis/@blueorgy/voilknetwork-emojis-master-list)
-- [5 'Markdown' Tips](/voilknetwork/@voilknetworkguide/markdown-and-html-code-guide-for-beginners-that-includes-5-useful-tips-to-edit-posts-and-comments-using-the-raw-editor)
-
-### <span id="Wallet_and_Keys">Wallet and Keys</span>
-- [Understanding Your Wallet](/voilknetwork-help/@merej99/the-voilknetwork-newbie-s-comprehensive-guide-to-understanding-your-wallet-by-merej99)
-- [Voilk Keys and Passwords Guide](/voilknetwork-guides/@pfunk/a-user-s-guide-to-the-different-voilk-keys-or-passwords)
-- [A Guide To Cashing Out Your VOILK/VSD Using PayPal](/tutorial/@son-of-satire/a-minnows-guide-to-cashing-out-your-voilk-vsd-using-paypal-without-using-coinbase-and-their-invasive-identity-checks)
-
-### <span id="Witnesses">Witnesses</span>
-- [Witness Voting Guide](/witness-category/@timcliff/witness-voting-guide)
 
 <a href="#Table_of_Contents">^</a>
 ## <span id="Users_to_Follow">Users to Follow</span>
 
-- @voilknetworkblog - Official Voilknetwork Announcements
-- @ned - Ned Scott, CEO and Co-Founder of Voilknetwork, Inc.
+- @voilknetwork - Official Voilknetwork Announcements
+- @bilal - The founder of Voilk
 
 <a href="#Table_of_Contents">^</a>
 ## <span id="Other_Resources">Other Resources</span>
 
-- [FAQ](https://voilk.com/faq.html) - Answers to commonly asked questions
-- [Bluepaper](https://voilk.io/voilk-bluepaper.pdf) - Explanation of how the platform works
-- [The Voilk Whitepaper](https://voilk.io/VoilkWhitePaper.pdf) - Technical details of the Voilk blockchain
-- [Apps Built on Voilk](https://voilkprojects.com/) - Directory of apps, sites and tools built by Voilk community
-- [Voilk Block Explorer](https://voilkd.com/) - Shows the raw Voilk blockchain data 
-- [Voilk Blockchain Explorer](https://voilkdb.com/) - Analysis pages for the Voilk blockchain data
+- [FAQ](https://landing.voilk.com/faq) - Answers to commonly asked questions
+- [Voilk Block Explorer](https://explorer.voilk.com/) - Shows the raw Voilk blockchain data 
 
 <a href="#Table_of_Contents">^</a>
 ## <span id="Get_Help">Get Help</span>
 
-Ask your general questions in the [help](https://voilk.chat/channel/help) channel of [voilk.chat](https://voilk.chat/home). Users in the channel will typically respond to questions within a few hours.
-
-New Member Support Community is a group of people dedicated to helping new users find their way around Voilknetwork. You can find them in the [New Member Support Community](https://discord.gg/HYj4yvw) channel of Discord Chat.
+Join our discord group, and find help by talking directly to us.
+- [Discord](https://discord.gg/QNryJsJ)
 
 <a href="#Table_of_Contents">^</a>
 ## <span id="Third_Party_References">Third Party References</span>
 
-Peerhub, BlockTrades, Bittrex, Voilk Chat, New Member Support Community, and Discord Chat, as well as the tools listed under "Other Resources", are third party applications/services and are not owned or maintained by Voilknetwork, Inc. Their listing here does not constitute an endorsement or recommendation on behalf of Voilknetwork, Inc.
-
-All of the links in the "Helpful Posts from Voilknetwork Users" section were created by our users and do not necessarily represent the views of Voilknetwork, Inc. or its management.
+All of the links in the "Helpful Posts from Voilknetwork Users" section were created by our users and do not necessarily represent the views of Voilk, Inc. or its management.
 
 Please use the third party tools and content at your own risk.
 

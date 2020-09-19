@@ -574,7 +574,7 @@
     "estimated_value":
       "The estimated value is based on an average value of %(LIQUID_TOKEN)s in VOILK dollars.",
     "non_transferable":
-      "%(COINING_TOKEN)s is non-transferable and requires (104 payments) to convert back to %(LIQUID_TOKEN)s.",
+      "%(COINING_TOKEN)s is non-transferable and requires (365 payments) to convert back to %(LIQUID_TOKEN)s. It will take 365 days to convert back to %(LIQUID_TOKEN)s",
     "converted_COINING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again":
       "Converted %(COINING_TOKEN)s can be sent to yourself or someone else but can not transfer again without converting back to %(LIQUID_TOKEN)s.",
     "part_of_your_voilk_power_is_currently_delegated":

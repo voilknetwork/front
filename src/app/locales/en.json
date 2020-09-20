@@ -578,7 +578,7 @@
     "converted_COINING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again":
       "Converted %(COINING_TOKEN)s can be sent to yourself or someone else but can not transfer again without converting back to %(LIQUID_TOKEN)s.",
     "part_of_your_voilk_power_is_currently_delegated":
-      "Part of %(user_name)s's SHARE POWER is currently delegated. Delegation is donated for influence or to help new users perform actions on voilknetwork. Your delegation amount can fluctuate."
+      "Part of %(user_name)s's VOILK POWER is currently delegated. Delegation is donated for influence or to help new users perform actions on voilknetwork. Your delegation amount can fluctuate."
   },
   "promote_post_jsx": {
     "promote_post": "Promote Post",
@@ -636,9 +636,9 @@
     "from_negative_rep_user_explained":
       "This is from an account with a bad reputation. If you wish, you may temporarily reveal this memo which may contain dangerous links.",
     "from_negative_rep_user_reveal_memo": "I understand the risk; show anyway.",
-    "curation_reward": "%(curation_reward)s SHARE POWER for ",
+    "curation_reward": "%(curation_reward)s VOILK POWER for ",
     "author_reward":
-      "%(vsd_payout)s%(voilk_payout)s and %(author_reward)s SHARE POWER for ",
+      "%(vsd_payout)s%(voilk_payout)s and %(author_reward)s VOILK POWER for ",
     "claim_reward_balance": {
       "three_rewards":
         "Claim rewards: %(first_reward)s, %(second_reward)s and %(third_reward)s",
@@ -653,14 +653,14 @@
       "open_owner_filled_my_order": "Paid %(current_pays)s for %(open_pays)s"
     },
     "comment_benefactor_reward":
-      "%(benefactor_reward)s SHARE POWER for %(author)s/%(permlink)s",
+      "%(benefactor_reward)s VOILK POWER for %(author)s/%(permlink)s",
     "transfer_to_coining": {
       "from_self": {
-        "no_to": "Transfer %(amount)s to SHARE POWER",
-        "to_someone": "Transfer %(amount)s SHARE POWER to "
+        "no_to": "Transfer %(amount)s to VOILK POWER",
+        "to_someone": "Transfer %(amount)s VOILK POWER to "
       },
-      "to_self": "Receive %(amount)s SHARE POWER from ",
-      "from_user_to_user": " Transfer %(amount)s SHARE POWER from %(from) to "
+      "to_self": "Receive %(amount)s VOILK POWER from ",
+      "from_user_to_user": " Transfer %(amount)s VOILK POWER from %(from) to "
     },
     "transfer": {
       "from_self": {
@@ -855,7 +855,7 @@
     "transfers_are_temporary_disabled": "Transfers are temporary disabled.",
     "history": "HISTORY",
     "redeem_rewards": "Redeem Rewards (Transfer to Balance)",
-    "buy_voilk_or_voilk_power": "Buy VOILK or SHARE POWER"
+    "buy_voilk_or_voilk_power": "Buy VOILK or VOILK POWER"
   },
   "powerdown_jsx": {
     "power_down": "Power Down",

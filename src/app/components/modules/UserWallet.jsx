@@ -569,7 +569,7 @@ class UserWallet extends React.Component {
         </div>
         <div className="UserWallet__balance row zebra">
           <div className="column small-12 medium-8">
-            SHARE POWER
+            VOILK POWER
             <FormattedHTMLMessage
               className="secondary"
               id="tips_js.influence_token"
@@ -599,7 +599,7 @@ class UserWallet extends React.Component {
                   paddingRight: isMyAccount ? "0.85rem" : null
                 }}
               >
-                <Tooltip t="SHARE POWER delegated to/from this account">
+                <Tooltip t="VOILK POWER delegated to/from this account">
                   ({received_power_balance_str} VOILK)
                 </Tooltip>
               </div>

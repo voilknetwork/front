@@ -1,7 +1,7 @@
 import Apps from "voilkscript/apps.json";
 
 export function makeCanonicalLink(d) {
-  var canonicalUrl = "https://voilk.com" + d.link;
+  var canonicalUrl = "https://social.voilk.com" + d.link;
   if (
     d.json_metadata &&
     d.json_metadata.app &&

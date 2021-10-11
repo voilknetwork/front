@@ -246,7 +246,7 @@ class UserWallet extends React.Component {
     let total_value =
       "$" +
       numberWithCommas(
-        (total_voilk * price_per_voilk + total_vsd * price_per_voilk).toFixed(2)
+        (total_voilk * 0.1 + total_vsd * 1).toFixed(2)
       );
 
     // format spacing on estimated value based on account state
@@ -491,44 +491,7 @@ class UserWallet extends React.Component {
             </div>
           }
         </div>
-        <div className="row">
-          <div className="column">
-            <ImpRecorder
-              classPref="ads-rotator" // class前缀，所有class均基于该值计算
-              interval={5000} // 轮播间隔
-              hoverDelay={600} // 在圆点上悬停到切换的延迟
-              lockTimeout={600}
-              adtype={"small"} // 在一个导致frame切换动作发生后禁止组件外观更新的时间
-            />
-          </div>
-          <div className="column">
-            <ImpRecorder
-              classPref="ads-rotator" // class前缀，所有class均基于该值计算
-              interval={5000} // 轮播间隔
-              hoverDelay={600} // 在圆点上悬停到切换的延迟
-              lockTimeout={600}
-              adtype={"small"} // 在一个导致frame切换动作发生后禁止组件外观更新的时间
-            />
-          </div>
-          <div className="column">
-            <ImpRecorder
-              classPref="ads-rotator" // class前缀，所有class均基于该值计算
-              interval={5000} // 轮播间隔
-              hoverDelay={600} // 在圆点上悬停到切换的延迟
-              lockTimeout={600}
-              adtype={"small"} // 在一个导致frame切换动作发生后禁止组件外观更新的时间
-            />
-          </div>
-          <div className="column">
-            <ImpRecorder
-              classPref="ads-rotator" // class前缀，所有class均基于该值计算
-              interval={5000} // 轮播间隔
-              hoverDelay={600} // 在圆点上悬停到切换的延迟
-              lockTimeout={600}
-              adtype={"small"} // 在一个导致frame切换动作发生后禁止组件外观更新的时间
-            />
-          </div>
-        </div>
+
         <div className="UserWallet__balance row">
           <div className="column small-12 medium-8">
             VOILK

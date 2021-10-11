@@ -43,37 +43,34 @@ class UserWallet extends React.Component {
       const new_window = window.open();
       new_window.opener = null;
       new_window.location =
-        "https://cash.voilk.com/?input_coin_type=eth&output_coin_type=voilk&receive_address=" +
-        name;
+        "https://affiliates.voilk.com"
     };
     this.onShowWithdrawVoilk = e => {
       e.preventDefault();
       const new_window = window.open();
       new_window.opener = null;
       new_window.location =
-        "https://cash.voilk.com/unregistered_trade/voilk/eth";
+        "https://affiliates.voilk.com";
     };
     this.onShowDepositPower = (current_user_name, e) => {
       e.preventDefault();
       const new_window = window.open();
       new_window.opener = null;
       new_window.location =
-        "https://cash.voilk.com/?input_coin_type=eth&output_coin_type=voilk_power&receive_address=" +
-        current_user_name;
+        "https://affiliates.voilk.com"
     };
     this.onShowDepositVSD = (current_user_name, e) => {
       e.preventDefault();
       const new_window = window.open();
       new_window.opener = null;
       new_window.location =
-        "https://cash.voilk.com/?input_coin_type=eth&output_coin_type=vsd&receive_address=" +
-        current_user_name;
+        "https://affiliates.voilk.com"
     };
     this.onShowWithdrawVSD = e => {
       e.preventDefault();
       const new_window = window.open();
       new_window.opener = null;
-      new_window.location = "https://cash.voilk.com/unregistered_trade/vsd/eth";
+      new_window.location = "https://affiliates.voilk.com";
     };
     this.shouldComponentUpdate = shouldComponentUpdate(this, "UserWallet");
   }

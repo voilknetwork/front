@@ -7,7 +7,7 @@
   "helmet": {
     "directives": {
       "childSrc": "'self'  www.youtube.com staticxx.facebook.com w.soundcloud.com player.vimeo.com",
-      "connectSrc": "'self' https://api.ipify.org/?format=json https://graphql.voilk.com/graphql http://www.geoplugin.net/json.gp voilk.com https://images.voilk.com https://api.voilk.com",
+      "connectSrc": "'self' https://api.ipify.org/?format=json https://graphql.voilk.com/graphql http://www.geoplugin.net/json.gp https://social.voilk.com https://images.voilk.com http://localhost:6989 https://api.voilk.com",
       "frameSrc": "'none'",
       "defaultSrc": "'self' www.youtube.com staticxx.facebook.com player.vimeo.com",
       "fontSrc": "data: fonts.gstatic.com",
@@ -15,7 +15,7 @@
       "imgSrc": "* data:",
       "objectSrc": "'none'",
       "pluginTypes": "application/pdf",
-      "scriptSrc": "'self' www.google-analytics.com connect.facebook.net",
+      "scriptSrc": "'self' www.google-analytics.com connect.facebook.net localhost:6989",
       "styleSrc": "'self' 'unsafe-inline' fonts.googleapis.com",
       "reportUri": "/api/v1/csp_violation"
     },

@@ -325,7 +325,7 @@ class PostSummary extends React.Component {
     }
     const commentClasses = [];
     if (gray || ignore) commentClasses.push("downvoted"); // rephide
-
+    if (userBlacklisted) return null;
     return (
       <div className="articles__summary">
         {reblogged_by}

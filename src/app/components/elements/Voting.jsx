@@ -347,21 +347,21 @@ class Voting extends React.Component {
       post_obj.get("pending_payout_value")
     );
 
-    const multiplier = 10;
-    let display_pending_payout = pending_payout / multiplier;
+    // 4000
+    // 
+    const multiplier = 0.01;
+    let display_pending_payout = pending_payout;
     pending_payout = display_pending_payout;
 
-    const percent_voilk_dollars = post_obj.get("percent_voilk_dollars") / 20000;
-    const pending_payout_vsd = pending_payout * percent_voilk_dollars;
-    const pending_payout_sp =
-      (pending_payout - pending_payout_vsd) / price_per_voilk;
-    const pending_payout_printed_vsd =
-      pending_payout_vsd * (vsd_print_rate / VSD_PRINT_RATE_MAX);
-    const pending_payout_printed_voilk =
-      (pending_payout_vsd - pending_payout_printed_vsd) / price_per_voilk;
+    const percent_voilk_dollars = post_obj.get("percent_voilk_dollars");
+    // 0, 10000
+    const pending_payout_vsd = pending_payout * (percent_voilk_dollars/10000);
+    const pending_payout_sp = (pending_payout - pending_payout_vsd) * multiplier ;
+    const pending_payout_printed_vsd = pending_payout_vsd * (vsd_print_rate / VSD_PRINT_RATE_MAX);
+    const pending_payout_printed_voilk = (pending_payout_vsd - pending_payout_printed_vsd) * multiplier;
 
     let promoted = parsePayoutAmount(post_obj.get("promoted"));
-    let display_promoted = promoted / multiplier;
+    let display_promoted = promoted * multiplier ;
 
     let total_author_payout = parsePayoutAmount(
       post_obj.get("total_payout_value")
@@ -370,8 +370,8 @@ class Voting extends React.Component {
       post_obj.get("curator_payout_value")
     );
 
-    let display_author_payout = total_author_payout / multiplier;
-    let display_curator_payout = total_curator_payout / multiplier;
+    let display_author_payout = total_author_payout * multiplier;
+    let display_curator_payout = total_curator_payout * multiplier;
 
     let payout =
       pending_payout + display_author_payout + display_curator_payout;
@@ -408,12 +408,12 @@ class Voting extends React.Component {
           value:
             "(" +
             (vsd_print_rate != VSD_PRINT_RATE_MAX
-              ? formatDecimal(pending_payout_printed_voilk * 10).join("") +
+              ? formatDecimal(pending_payout_printed_voilk).join("") +
                 " " +
                 LIQUID_TOKEN_UPPERCASE +
                 ", "
               : "") +
-            formatDecimal(pending_payout_sp * 10).join("") +
+            formatDecimal(pending_payout_sp).join("") +
             " " +
             INCOIN_TOKEN_SHORT +
             ")"

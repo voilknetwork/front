@@ -350,15 +350,15 @@ class Voting extends React.Component {
     // 4000
     // 
     const multiplier = 0.01;
-    let display_pending_payout = pending_payout;
+    let display_pending_payout = pending_payout * multiplier;
     pending_payout = display_pending_payout;
 
     const percent_voilk_dollars = post_obj.get("percent_voilk_dollars");
     // 0, 10000
     const pending_payout_vsd = pending_payout * (percent_voilk_dollars/10000);
-    const pending_payout_sp = (pending_payout - pending_payout_vsd) * multiplier ;
+    const pending_payout_sp = (pending_payout - pending_payout_vsd) ;
     const pending_payout_printed_vsd = pending_payout_vsd * (vsd_print_rate / VSD_PRINT_RATE_MAX);
-    const pending_payout_printed_voilk = (pending_payout_vsd - pending_payout_printed_vsd) * multiplier;
+    const pending_payout_printed_voilk = (pending_payout_vsd - pending_payout_printed_vsd);
 
     let promoted = parsePayoutAmount(post_obj.get("promoted"));
     let display_promoted = promoted * multiplier ;

@@ -246,7 +246,7 @@ class UserWallet extends React.Component {
     let total_value =
       "$" +
       numberWithCommas(
-        (total_voilk * 0.1 + total_vsd * 1).toFixed(2)
+        (total_voilk * 0.01 + total_vsd * 1).toFixed(2)
       );
 
     // format spacing on estimated value based on account state

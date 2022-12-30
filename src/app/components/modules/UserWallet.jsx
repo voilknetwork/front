@@ -42,29 +42,25 @@ class UserWallet extends React.Component {
       const name = this.props.current_user.get("username");
       const new_window = window.open();
       new_window.opener = null;
-      new_window.location =
-        "https://affiliates.voilk.com"
+      new_window.location = "https://affiliates.voilk.com";
     };
     this.onShowWithdrawVoilk = e => {
       e.preventDefault();
       const new_window = window.open();
       new_window.opener = null;
-      new_window.location =
-        "https://affiliates.voilk.com";
+      new_window.location = "https://affiliates.voilk.com";
     };
     this.onShowDepositPower = (current_user_name, e) => {
       e.preventDefault();
       const new_window = window.open();
       new_window.opener = null;
-      new_window.location =
-        "https://affiliates.voilk.com"
+      new_window.location = "https://affiliates.voilk.com";
     };
     this.onShowDepositVSD = (current_user_name, e) => {
       e.preventDefault();
       const new_window = window.open();
       new_window.opener = null;
-      new_window.location =
-        "https://affiliates.voilk.com"
+      new_window.location = "https://affiliates.voilk.com";
     };
     this.onShowWithdrawVSD = e => {
       e.preventDefault();
@@ -244,10 +240,7 @@ class UserWallet extends React.Component {
       savings_pending +
       voilkOrders;
     let total_value =
-      "$" +
-      numberWithCommas(
-        (total_voilk * 0.01 + total_vsd * 1).toFixed(2)
-      );
+      "$" + numberWithCommas((total_voilk * 0.5 + total_vsd * 1).toFixed(2));
 
     // format spacing on estimated value based on account state
     let estimate_output = <p>{total_value}</p>;

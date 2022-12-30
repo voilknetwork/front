@@ -348,20 +348,22 @@ class Voting extends React.Component {
     );
 
     // 4000
-    // 
-    const multiplier = 0.01;
-    let display_pending_payout = pending_payout * multiplier;
-    pending_payout = display_pending_payout;
+    //
+    const multiplier = 0.5; // 1000
+    let display_pending_payout = pending_payout * multiplier; // 500
 
     const percent_voilk_dollars = post_obj.get("percent_voilk_dollars");
     // 0, 10000
-    const pending_payout_vsd = pending_payout * (percent_voilk_dollars/10000);
-    const pending_payout_sp = (pending_payout - pending_payout_vsd) ;
-    const pending_payout_printed_vsd = pending_payout_vsd * (vsd_print_rate / VSD_PRINT_RATE_MAX);
-    const pending_payout_printed_voilk = (pending_payout_vsd - pending_payout_printed_vsd);
+    const pending_payout_vsd =
+      pending_payout / 2 * (percent_voilk_dollars / 10000);
+    const pending_payout_sp = pending_payout - pending_payout_vsd;
+    const pending_payout_printed_vsd =
+      pending_payout_vsd * (vsd_print_rate / VSD_PRINT_RATE_MAX);
+    const pending_payout_printed_voilk =
+      pending_payout_vsd - pending_payout_printed_vsd;
 
     let promoted = parsePayoutAmount(post_obj.get("promoted"));
-    let display_promoted = promoted * multiplier ;
+    let display_promoted = promoted * multiplier;
 
     let total_author_payout = parsePayoutAmount(
       post_obj.get("total_payout_value")
@@ -374,12 +376,12 @@ class Voting extends React.Component {
     let display_curator_payout = total_curator_payout * multiplier;
 
     let payout =
-      pending_payout + display_author_payout + display_curator_payout;
+      display_pending_payout + display_author_payout + display_curator_payout;
     if (payout < 0.0) payout = 0.0;
     if (payout > max_payout) payout = max_payout;
     const payout_limit_hit = payout >= max_payout;
     // Show pending payout amount for declined payment posts
-    if (max_payout === 0) payout = pending_payout;
+    if (max_payout === 0) payout = display_pending_payout;
     const up = (
       <Icon
         name={votingUpActive ? "empty" : "chevron-up-circle"}
@@ -393,14 +395,14 @@ class Voting extends React.Component {
 
     // There is an "active cashout" if: (a) there is a pending payout, OR (b) there is a valid cashout_time AND it's NOT a comment with 0 votes.
     const cashout_active =
-      pending_payout > 0 ||
+      display_pending_payout > 0 ||
       (cashout_time.indexOf("1969") !== 0 && !(is_comment && total_votes == 0));
     const payoutItems = [];
 
     if (cashout_active) {
       payoutItems.push({
         value: tt("voting_jsx.pending_payout", {
-          value: formatDecimal(pending_payout).join("")
+          value: formatDecimal(display_pending_payout).join("")
         })
       });
       if (max_payout > 0) {

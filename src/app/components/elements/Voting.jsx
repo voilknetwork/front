@@ -349,7 +349,7 @@ class Voting extends React.Component {
 
     // 4000
     //
-    const multiplier = 0.5; // 1000
+    const multiplier = 1; // 1000
     let display_pending_payout = pending_payout * multiplier; // 500
 
     const percent_voilk_dollars = post_obj.get("percent_voilk_dollars");
